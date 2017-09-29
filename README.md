@@ -5,9 +5,9 @@
 &nbsp;
 
 ## HTML
-* [HTML概要](https://github.com/yonekura907/wako17web/tree/master/01_html/01_html.md)
-* [画像](https://github.com/yonekura907/wako17web/tree/master/01_html/02_img.md)
-* [リンク](https://github.com/yonekura907/wako17web/tree/master/01_html/03_link.md)
+* [HTML概要](https://github.com/yonekura907/teu17web/tree/master/01_html/01_html.md)
+* [画像](https://github.com/yonekura907/teu17web/tree/master/01_html/02_img.md)
+* [リンク](https://github.com/yonekura907/teu17web/tree/master/01_html/03_link.md)
 
 &nbsp;
 &nbsp;
